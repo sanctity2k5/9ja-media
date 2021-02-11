@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/9ja-media/static/js/main.dff3e66b.chunk.js",
+    "main.js.map": "/9ja-media/static/js/main.dff3e66b.chunk.js.map",
+    "runtime-main.js": "/9ja-media/static/js/runtime-main.44e33f60.js",
+    "runtime-main.js.map": "/9ja-media/static/js/runtime-main.44e33f60.js.map",
+    "static/css/2.150d169a.chunk.css": "/9ja-media/static/css/2.150d169a.chunk.css",
+    "static/js/2.f7b023ba.chunk.js": "/9ja-media/static/js/2.f7b023ba.chunk.js",
+    "static/js/2.f7b023ba.chunk.js.map": "/9ja-media/static/js/2.f7b023ba.chunk.js.map",
+    "index.html": "/9ja-media/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/9ja-media/static/css/2.150d169a.chunk.css.map",
+    "static/js/2.f7b023ba.chunk.js.LICENSE.txt": "/9ja-media/static/js/2.f7b023ba.chunk.js.LICENSE.txt",
+    "static/media/Entertainment.e116517c.jpeg": "/9ja-media/static/media/Entertainment.e116517c.jpeg",
+    "static/media/Logo.50aba786.jpeg": "/9ja-media/static/media/Logo.50aba786.jpeg",
+    "static/media/MicQueen1.e8945150.jpeg": "/9ja-media/static/media/MicQueen1.e8945150.jpeg",
+    "static/media/MicQueen2.e73c7d94.jpeg": "/9ja-media/static/media/MicQueen2.e73c7d94.jpeg",
+    "static/media/MicQueen3.5f37df20.jpeg": "/9ja-media/static/media/MicQueen3.5f37df20.jpeg",
+    "static/media/Sports.292f788a.jpeg": "/9ja-media/static/media/Sports.292f788a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44e33f60.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.f7b023ba.chunk.js",
+    "static/js/main.dff3e66b.chunk.js"
+  ]
+}
